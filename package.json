@@ -1,0 +1,19 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "This is a startup project for creating a blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rztiwari/app-blog-post.git"
+  },
+  "author": "Rajiv Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rztiwari/app-blog-post/issues"
+  },
+  "homepage": "https://github.com/rztiwari/app-blog-post#readme"
+}
